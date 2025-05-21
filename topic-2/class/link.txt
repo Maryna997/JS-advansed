@@ -1,1 +1,4 @@
+Посилання на репозиторій 1 частини лекції:
 https://github.com/Olexiy-repin/MCS-8-MCHD-2-Advanced-JS-/tree/topic-02
+Посилання на репозиторій 2 частини лекції:
+https://github.com/Olexiy-repin/mcs-8-vite-test
